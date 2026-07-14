@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "cases": [],
+  "antiPatterns": [],
+  "notes": [
+    "v2 初始版：完成主 SKILL、Prompt 模板、案例喂养模板、反例模板、案例库目录建议"
+  ]
+}
